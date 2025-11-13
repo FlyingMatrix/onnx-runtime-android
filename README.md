@@ -1,2 +1,2 @@
 # Onnx Runtime Android
-An application example for ONNX Runtime on Android
+An example Android application using ONNX Runtime for AI inference
