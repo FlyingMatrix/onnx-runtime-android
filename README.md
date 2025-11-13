@@ -1,2 +1,2 @@
-# onnx-runtime-android
-An example application for ONNX Runtime on Android
+# Onnx Runtime Android
+An application example for ONNX Runtime on Android
